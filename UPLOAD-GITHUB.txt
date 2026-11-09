@@ -1,0 +1,16 @@
+PORTOFOLIO FITRIA — PAKET PERBAIKAN GITHUB
+
+Ini website ASLI dengan desain, teks dan struktur tampilan tetap.
+Folder ini sudah menyesuaikan gambar yang berada sejajar dengan index.html di repository GitHub.
+
+CARA UPLOAD:
+1. Extract ZIP.
+2. Buka repository github.com/fitriasopiana/Fitriasopianaportofolio
+3. Add file > Upload files.
+4. Seret SEMUA isi folder ini (bukan folder dan bukan ZIP).
+5. Commit directly to main > Commit changes.
+6. Buka GitHub Pages, kemudian Ctrl+Shift+R.
+
+Paket ini termasuk 15 gambar foto/karya website asli.
+CV sengaja tidak dimasukkan dalam paket publik; tombolnya menjadi Request CV via email.
+File UPLOAD-GITHUB.txt hanyalah petunjuk dan tidak memengaruhi website.
