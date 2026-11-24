@@ -1,11 +1,10 @@
-FITRIA SOPIANA — PORTOFOLIO
+PORTOFOLIO FITRIA SOPIANA
 
-Website hanya memerlukan index.html. Semua gambar, CSS, dan JavaScript ada di dalam file tersebut.
+Cara upload ke GitHub Pages:
+1. Ekstrak ZIP ini.
+2. Buka github.com/fitriasopiana/Fitriasopianaportofolio
+3. Hapus file lama yang tidak dipakai (opsional), lalu Add file > Upload files.
+4. Seret SEMUA isi folder (index.html, style.css, script.js, dan semua gambar). Folder _arsip-tidak-ditampilkan TIDAK perlu diunggah.
+5. Commit changes ke main, tunggu beberapa menit, lalu Ctrl+Shift+R.
 
-Cara memasang di GitHub Pages:
-1. Buka repository GitHub yang lama.
-2. Tambah / ganti file index.html di root repository (bukan di folder lain).
-3. Commit changes ke main.
-4. Refresh GitHub Pages dengan Ctrl+Shift+R.
-
-Jangan mengunggah ZIP sebagai file website. Ekstrak terlebih dahulu.
+Folder _arsip-tidak-ditampilkan berisi gambar yang sengaja tidak ditampilkan di web (error #N/A, soal belum dikerjakan, duplikat, dan data pribadi). Simpan untuk arsip pribadi, jangan diunggah ke GitHub publik.
